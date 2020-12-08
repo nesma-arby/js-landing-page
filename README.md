@@ -2,12 +2,33 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+- [Installation](#installation)
+- [How to run](#run)
+- [About the Project](#project)
 
-## Instructions
+## installation
+Run npm i 
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## How to run
 
-To get started, open `js/app.js` and start building out the app's functionality
+You don't need anything special to run just open 
+index.html on the browser
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+
+## About the Project
+
+##### 
+    - It's about Dom Manipulation
+
+    - the landing page consists of 6 sections 
+
+    - you can add more sections as you want 
+
+    - you will find the navbar responds automatically with you 
+
+    - you can click to any link and get the desired section smoothly 
+    
+    - also while scrolling on the page you can see the active section with its corrsponding nav item . 
+
+
+
